@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="info">Contact\'s Information</string>
+
+    <string name="jinn">Jinn, Qui-Gon</string>
+    <string name="jinnFull">Qui-Gon Jinn</string>
+    <string name="jinnData">(415) 662-1704\n\n5858 Lucas Valley Rd, Nicasio, CA</string>
+
+    <string name="joker">Joker, The</string>
+    <string name="jokerFull">The Joker</string>
+    <string name="jokerData">(201) 867-5309\n\n250 52nd Boulevard, Gotham City, NJ</string>
+</resources>
